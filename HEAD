@@ -1,0 +1,7 @@
+0000000000000000000000000000000000000000 bfbc0655f9467fdea60191a55bda3780cba326bd Devansh028 <devanshkumar370@gmail.com> 1770998750 +0530	commit (initial): Initial commit: SpendWise backend with JWT and CRUD
+bfbc0655f9467fdea60191a55bda3780cba326bd 0000000000000000000000000000000000000000 Devansh028 <devanshkumar370@gmail.com> 1770998758 +0530	Branch: renamed refs/heads/main to refs/heads/main
+bfbc0655f9467fdea60191a55bda3780cba326bd bfbc0655f9467fdea60191a55bda3780cba326bd Devansh028 <devanshkumar370@gmail.com> 1770998758 +0530	Branch: renamed refs/heads/main to refs/heads/main
+bfbc0655f9467fdea60191a55bda3780cba326bd 5fac75f8b51941d017fdd91977ebd996c901d021 Devansh028 <devanshkumar370@gmail.com> 1771217086 +0530	commit (merge): first commit
+5fac75f8b51941d017fdd91977ebd996c901d021 0000000000000000000000000000000000000000 Devansh028 <devanshkumar370@gmail.com> 1771217087 +0530	Branch: renamed refs/heads/main to refs/heads/main
+5fac75f8b51941d017fdd91977ebd996c901d021 5fac75f8b51941d017fdd91977ebd996c901d021 Devansh028 <devanshkumar370@gmail.com> 1771217087 +0530	Branch: renamed refs/heads/main to refs/heads/main
+5fac75f8b51941d017fdd91977ebd996c901d021 01c924a5e3124d91d1727701b6b733f990e2235d Devansh028 <devanshkumar370@gmail.com> 1771217328 +0530	commit: Remove node_modules and .env from repository
